@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace mediatekApp
+namespace mediatekApp.vue
 {
-    public partial class frmAuthentification: Form
+    public partial class frmPersonnel: Form
     {
-        public frmAuthentification()
+        public frmPersonnel()
         {
             InitializeComponent();
         }
